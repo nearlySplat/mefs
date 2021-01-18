@@ -1,6 +1,5 @@
 const Constants = require("./static/constants")
-
-exports = class Mefs {
+class Mefs {
   constructor () {
     
   }
@@ -8,3 +7,5 @@ exports = class Mefs {
     return Constants.random[Math.floor(Math.random() * Constants.random.length)]
   }
 }
+
+module.exports = Mefs

@@ -1,3 +1,3 @@
-const mefs = require("./src/index.js");
+const mefs = new (require("./src/index.js"))();
 
 console.log(mefs.random())

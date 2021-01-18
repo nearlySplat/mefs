@@ -1,5 +1,5 @@
 {
-  "name": "@splatterxl/mefs",
+  "name": "mefs",
   "version": "0.0.1",
   "description": "Mefs",
   "main": "src/index.js",

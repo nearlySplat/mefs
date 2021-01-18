@@ -1,6 +1,6 @@
 {
   "name": "mefs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Big brain mefs",
   "main": "src/index.js",
   "scripts": {
@@ -11,7 +11,9 @@
     "url": "git+https://github.com/nearlySplat/mefs.git"
   },
   "keywords": [
-    "mefs"
+    "mefs",
+    "meths",
+    "big brain"
   ],
   "author": "Splatterxl",
   "license": "BSD-3-Clause",

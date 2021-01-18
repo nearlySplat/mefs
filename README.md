@@ -5,7 +5,7 @@
 To use this package, all you gotta do is do
 
 ```bash
-npm install mefs@0.0.5
+npm install mefs@latest
 ```
 
 and do 

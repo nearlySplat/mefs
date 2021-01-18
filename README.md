@@ -5,7 +5,7 @@
 To use this package, all you gotta do is do
 
 ```bash
-npm install mefs@0.0.3
+npm install mefs@0.0.4
 ```
 
 and do 
@@ -17,7 +17,18 @@ const Mefs = new (require("mefs"))();
 ## Methods
 
 - `#random()`
+
 Returns a random value from the `Constants#random` array.
+
+## Properties
+
+- `#PIE`
+
+Returns `🥧`.
+
+- `#E`
+
+Returns `"E"`.
 
 # Contributing
 Do what you want

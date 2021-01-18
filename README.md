@@ -8,13 +8,16 @@ To use this package, all you gotta do is do
 npm install mefs@0.0.3
 ```
 
-and do ```js
-const Mefs = new (require("mefs"))()
+and do 
+```js
+const Mefs = new (require("mefs"))();
 ```
 
 
 ## Methods
 
-- #random()
+- `#random()`
 Returns a random value from the `Constants#random` array.
 
+# Contributing
+Do what you want

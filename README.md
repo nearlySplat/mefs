@@ -10,7 +10,7 @@ npm install mefs@latest
 
 and do 
 ```js
-const Mefs = new (require("mefs"))();
+const Mefs = require("mefs");
 ```
 
 

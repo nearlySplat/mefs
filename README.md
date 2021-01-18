@@ -20,6 +20,12 @@ const Mefs = new (require("mefs"))();
 
 Returns a random value from the `Constants#random` array.
 
+- `#pow(power, ...nopower)`
+
+**Two parameters or more are required for this function**.
+
+Shows which parts of the variable tree have power.
+
 ## Properties
 
 - `#PIE`

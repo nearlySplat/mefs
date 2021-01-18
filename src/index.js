@@ -1,4 +1,4 @@
-const Constants = require("static/constants")
+const Constants = require("./static/constants")
 
 exports = class Mefs extends Math {
   constructor () {
